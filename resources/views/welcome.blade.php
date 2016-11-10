@@ -13,8 +13,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #242524;
+                color: #eee;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -47,6 +47,7 @@
 
             .title {
                 font-size: 84px;
+                text-shadow: 1px 1px #888888;
             }
 
             .subtitle {
